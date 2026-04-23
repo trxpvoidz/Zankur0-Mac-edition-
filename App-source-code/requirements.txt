@@ -1,0 +1,6 @@
+flask
+flask-cors
+pywebview
+cryptography
+pillow
+requests
