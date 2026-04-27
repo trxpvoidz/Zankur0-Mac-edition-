@@ -47,8 +47,686 @@
   "5964b96f-8318-4ee3-929c-aed1e1479cfd",
   "9bf010c4-9253-4437-ad56-6f38ac95f040",
   "d8d8c1ea-ecd8-4b9b-bd7b-91943a63bb3f",
-  "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
-  "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+{
+    "SourceEntity": {
+        "Id": "6AF55D1D10B42870",
+        "Type": "namespace",
+        "TypeString": "namespace"
+    },
+    "SourceEntityKey": {
+        "Id": "6AF55D1D10B42870",
+        "Type": "namespace",
+        "TypeString": "namespace"
+    },
+    "Id": "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+    "Type": "bundle",
+    "AlternateIds": [
+        {
+            "Type": "FriendlyId",
+            "Value": "b51f1e4f-7936-4376-8b20-e2aaec262638"
+        }
+    ],
+    "FriendlyId": "b51f1e4f-7936-4376-8b20-e2aaec262638",
+    "Title": {
+        "NEUTRAL": "Doctor Who Skins Volume I",
+        "bg-BG": "Скинове Doctor Who, том I",
+        "cs-CZ": "Skiny Doctor Who: díl I",
+        "da-DK": "Doctor Who I",
+        "de-DE": "Doctor-Who-Skins, Ausgabe 1",
+        "el-GR": "Εμφανίσεις Doctor Who Τόμος I",
+        "en-GB": "Doctor Who Skins Volume I",
+        "en-US": "Doctor Who Skins Volume I",
+        "es-ES": "Aspectos de Doctor Who - Volumen I",
+        "es-MX": "Aspectos Doctor Who: Volumen I",
+        "fi-FI": "Doctor Who -olemukset I",
+        "fr-CA": "Skins Doctor Who Volume I",
+        "fr-FR": "Pack de skins Doctor Who, volume 1",
+        "hu-HU": "Doctor Who-felületek, I. kötet",
+        "id-ID": "Skin Doctor Who Volume I",
+        "it-IT": "Pacchetto skin Doctor Who V.1",
+        "ja-JP": "Doctor Who スキンパック Volume I",
+        "ko-KR": "닥터 후 스킨 볼륨 I",
+        "nb-NO": "Doctor Who-skall: Del 1",
+        "nl-NL": "Doctor Who-skinpakket I",
+        "pl-PL": "Doktor Who – zestaw skórek I",
+        "pt-BR": "Capas de Doctor Who Volume I",
+        "pt-PT": "Skins Doctor Who – Volume I",
+        "ru-RU": "Набор скинов «Доктор Кто, выпуск I»",
+        "sk-SK": "Vzhľady Doctor Who, I. diel",
+        "sv-SE": "Doctor Who – Utseendepaket 1",
+        "tr-TR": "Doctor Who Dış Görünüşleri Sürüm I",
+        "uk-UA": "Пакет скінів \"Доктор Хто\", частина I",
+        "zh-CN": "《神秘博士》皮肤套装 I",
+        "zh-TW": "Doctor Who 造型組 I"
+    },
+    "Description": {
+        "NEUTRAL": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth, Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.",
+        "bg-BG": "Прехвърлете се в епично приключение в пространството и времето със скиновете Doctor Who, том I, на Minecraft. Над 50 персонажи от всички ери на сериала, включително Първият, Четвъртият, Единадесетият и Дванадесетият Доктор, Ейми Понд, Клара Осуълд, Роуз Тайлър, Зайгонс, Повелителя, Ридаещите ангели, Далеците и техният зъл създател Даврос.",
+        "cs-CZ": "Vydejte se s balíčkem skinů Doctor Who: díl I pro Minecraft na závratné dobrodružství v čase i vesmíru. Balíček obsahuje více než 50 postav ze všech řad seriálu, včetně prvního, čtvrtého, jedenáctého a dvanáctého doktora, a těšit se tak můžete na Amy Pondovou, Claru Oswaldovou, Rose Tylerovou, Zygony, Vládce, Plačícího anděla, Daleky i jejich temného tvůrce Davrose.",
+        "da-DK": "Begiv dig ud på et episk eventyr i tid og rum med Minecraft-skinpakken Doctor Who I. Der er over 50 figurer fra alle showets æraer inklusive den første, fjerde, ellevte og tolvte Doctor. Du får også Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, Daleks og deres onde skaber Davros.",
+        "de-DE": "Starte mit der ersten Ausgabe der \"Doctor Who\"-Skins in ein episches Abenteuer durch Raum und Zeit. Mehr als 50 Figuren aus jeder Ära der Show inklusive des ersten, vierten, elften und zwölften Doktors, Amy Pond, Clara Oswald, Rose Tyler, Zygonen, dem Meister, weinenden Engeln, der Daleks und ihres bösen Erschaffers Davros.",
+        "el-GR": "Εκτοξεύσου σε μια επική περιπέτεια στον χώρο και τον χρόνο με τις Εμφανίσεις Doctor Who Τόμος I του Minecraft. Πάνω από 50 χαρακτήρες από όλες τις περιόδους της σειράς, μεταξύ των οποίων ο Πρώτος, Τέταρτος, Ενδέκατος και Δωδέκατος Doctor, η Έιμι Ποντ, η Κλάρα Όσβαλντ, η Ρόουζ Τάιλερ, οι Ζάιγκον, o Μάστερ, οι Θρηνούντες Άγγελοι, τα Ντάλεκ και ο σατανικός δημιουργός τους, ο Ντάβρος.",
+        "en-GB": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth, Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.",
+        "en-US": "Launch yourself on an epic adventure in space and time with the Minecraft Doctor Who Skins Volume I. Over 50 characters from all eras of the show including the First, Fourth, Eleventh and Twelfth Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, the Daleks and their evil creator Davros.",
+        "es-ES": "Lánzate a una aventura épica en el tiempo y el espacio con el Pack de aspecto de Doctor Who Volumen I. En este pack encontrarás a más de 50 personajes de todas las épocas de la serie: el primer Doctor, el cuarto, el undécimo y el duodécimo, Amy Pond, Clara Oswald, Rose Tyler, los Zygons, el Maestro, los Ángeles llorosos, los Daleks y Davros, su malvado creador.",
+        "es-MX": "Lánzate a una aventura épica en el tiempo y el espacio con los nuevos aspectos Doctor Who (Volumen I) de Minecraft. En este pack encontrarás más de 50 personajes de todas las épocas de la serie: el primer Doctor, el cuarto, el undécimo y el duodécimo, Amy Pond, Clara Oswald, Rose Tyler, los Zygons, el Maestro, los Ángeles Llorosos, los Daleks y Davros, su malvado creador.",
+        "fi-FI": "Syöksy suureen seikkailuun halki ajan ja avaruuden hankkimalla Minecraftiin Doctor Who -olemuspaketti I. Mukana on yli 50 hahmoa sarjan kaikilta aikakausilta, mukaan lukien ensimmäinen, neljäs, yhdestoista ja kahdestoista Tohtori, Amy Pond, Clara Oswald, Rose Tyler, zygonit, Mestari, itkevät enkelit sekä dalekit ja niiden ilkeä luoja Davros.",
+        "fr-CA": "Lancez-vous dans une aventure épique dans l'espace et le temps avec les skins Minecraft Doctor Who volume I. Plus de 50 personnages de toutes les époques de l'émission, y compris les Premier, Quatrième, Onzième et Douzième Docteurs, Amy Pond, Clara Oswald, Rose Tyler, les Zygons, le Maître, les Anges Pleureurs, les Daleks et leur diabolique créateur Davros.",
+        "fr-FR": "Lancez-vous dans une aventure épique à travers le temps et l'espace avec le pack de skins Doctor Who, volume I pour Minecraft. Découvrez plus de 50 personnages issus de toutes les saisons de la série, dont le premier Docteur ainsi que le quatrième, le onzième et le douzième ; Amy Pond, Clara Oswald, Rose Tyler, les Zygons, Le Maître, les Anges Pleureurs, les Daleks et leur créateur maléfique, Davros.",
+        "hu-HU": "Indulj epikus kalandokra térben és időben a Minecraft Doctor Who-felületek I. kötetével. Összesen több mint 50 karakter a sorozat minden korszakából, köztük az első, a negyedik, a tizenegyedik és a tizenkettedik Doktor, Amy Pond, Clara Oswald, Rose Tyler, zygonok, a Mester, síró angyalok, valamint a dalekek és gonosz alkotójuk, Davros.",
+        "id-ID": "Ikuti petualangan epik dalam ruang dan waktu dengan Skin Doctor Who Volume I Minecraft. Lebih dari 50 karakter dari semua era acara ini, termasuk Dokter Pertama, Keempat, Kesebelas, dan Keduabelas, Amy Pond, Clara Oswald, Rose Tyler, Zygon, The Master, Weeping Angels, Dalek, dan pencipta mereka yang jahat Davros.",
+        "it-IT": "Lanciati in un'epica avventura spazio-temporale con il volume 1 delle skin Doctor Who per Minecraft. Più di 50 personaggi provenienti da tutte le ere della serie TV tra cui il primo, il quarto, l'undicesimo e il dodicesimo dottore, Amy Pond, Clara Oswald, Rose Tyler, gli Zygon, il Maestro, gli Angeli piangenti, i Dalek e Davros, il loro perfido creatore.",
+        "ja-JP": "Minecraft Doctor Who スキン Volume I で、時空を超えた壮大な冒険へと出かけよう。初代ドクター、4 代目ドクター、11 代目ドクター、12 代目ドクター、Amy Pond、Clara Oswald、Rose Tyler、ザイゴン、マスター、嘆きの天使、Daleks と邪悪な博士 Davros など、番組全シリーズから 50 種以上の歴代キャラクターが登場します。",
+        "ko-KR": "Minecraft Doctor Who 스킨 볼륨 I과 함께 시공을 넘나드는 모험을 떠나 보세요. 1, 4, 11, 12대 Doctor와 Amy Pond, Clara Oswald, Rose Tyler, Zygon, 마스터, 우는 천사, Dalek 및 그들의 사악한 창조자인 Davros를 포함하여 시리즈 곳곳에 출연한 50명 이상의 캐릭터가 등장합니다.",
+        "nb-NO": "Begi deg ut på et episk eventyr i rom og tid med Doctor Who-skall: Del 1 til Minecraft. Mer enn 50 karakterer fra alle periodene av serien, inkludert den første, fjerde, ellevte og tolvte doktoren, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, Dalekene og deres onde skaper Davros.",
+        "nl-NL": "Stort jezelf in een episch avontuur door ruimte en tijd met het Doctor Who-skinpakket I voor Minecraft. Bevat 50 personages uit alle tijdperken van de televisieserie, inclusief de eerste, vierde, elfde en twaalfde Doctors, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, de Daleks en hun kwaadaardige schepper Davros.",
+        "pl-PL": "Udaj się na niezwykłą wyprawę w czasoprzestrzeń. Pomoże ci w tym 1. część minecraftowej serii skórek inspirowanej Doktorem Who. Znajdziesz w niej ponad 50 postaci z wszystkich sezonów serialu, między innymi Doktorów nr 1, 4, 11 i 12, Amy Pond, Clarę Oswald, Rose Tyler, Zygonów, Mistrza, Płaczące Anioły, Daleków oraz ich złego stwórcę – Davrosa.",
+        "pt-BR": "Mergulhe em uma épica aventura no tempo e espaço com as Capas de Doctor Who Volume I para o Minecraft. Mais de 50 personagens de todas as eras do show, incluindo o Primeiro, Quarto, Décimo-Primeiro e Décimo-Segundo Doutores, Amy Pond, Clara Oswald, Rose Tyler, os Zygons, O Mestre, os Anjos Lamentadores, os Daleks e seu criador perverso, Davros.",
+        "pt-PT": "Lança-te numa aventura épica no tempo e no espaço com as Skins Minecraft Doctor Who Volume I. Mais de 50 personagens de todas as eras do programa, incluindo o 1.º, o 4.º, o 11.º e o 12.º Doutores, Amy Pond, Clara Oswald, Rose Tyler, Zygons, O Mestre, Anjos Lamentadores, os Daleks e o seu malévolo criador Davros.",
+        "ru-RU": "Отправьтесь в эпическое приключение в пространстве и времени с помощью скинов Doctor Who для Minecraft (выпуск I). Более 50 персонажей из всех сезонов культового сериала, в том числе Первый, Четвертый, Одиннадцатый и Двенадцатый Доктора, Эми Понд, Клара Освальд, Роуз Тайлер, зайгоны, Мастер, Плачущие Ангелы, далеки и их злой создатель Даврос.",
+        "sk-SK": "Vydajte sa na epické dobrodružstvo vo vesmíre a čase pomocou I. dielu vzhľadov Doctor Who pre hru Minecraft. Prvý, štvrtý, jedenásty a dvanásty Doktor, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels, Daleks a ich zlý stvoriteľ Davros sú len niektoré z viac ako 50 postáv zo všetkých období tejto šou.",
+        "sv-SE": "Ge dig ut på ett storslaget äventyr genom tid och rum med Minecraft – Doctor Who-paket 1. Innehåller över 50 karaktärer från alla eror av tv-seriens historia, inklusive den första, fjärde, elfte och tolfte doktorn, Amy Pond, Clara Oswald, Rose Tyler, Zygons, The Master, Weeping Angels samt Daleks och deras onda skapare Davros.",
+        "tr-TR": "Minecraft Doctor Who Dış Görünüşleri Sürüm I ile uzay ve zamanda destansı bir maceraya atılın. Birinci, Dördüncü, On Birinci ve On İkinci Doktorlar Amy Pond, Clara Oswald, Rose Tyler, Zygonlar, Usta, Ağlayan Melekler, Dalekler ve onların şeytani yaratıcısı Davros da dahil olmak üzere tüm çağlardan 50'nin üzerinde karakter.",
+        "uk-UA": "Вирушайте в епічні пригоди в просторі й часі, скориставшись пакетом скінів Minecraft \"Доктор Хто\", частина I. Понад 50 персонажів з усіх сезонів серіалу, зокрема Перший, Четвертий, Одинадцятий і Дванадцятий Доктори, Емі Понд, Клара Освальд, Роуз Тайлер, Зайгони, Майстер, янголи в сльозах, далеки та їхній злий творець Даврос.",
+        "zh-CN": "使用《我的世界》的《神秘博士》皮肤套装 I 开始一场时空中的史诗冒险。套装包含该剧集所有时代中50名以上的角色，包括第一任、第四任、第十一任和第十四任博士、艾米·庞德、克莱拉‧奥斯维得、罗斯·泰勒、变形怪、法师、哭泣天使、戴立克和他们的邪恶造物主戴沃斯。",
+        "zh-TW": "快來體驗 Minecraft Doctor Who 造型組 I，享受浩瀚華麗的時空冒險！其中超過 50 名來自各個世紀的角色登場，包括：第一、第四、第十一與第十二代 Doctor，艾米龐德、克拉拉奧斯瓦爾德、羅斯泰勒、扎貢人、大師、哭泣天使、達立克斯，以及它們的惡魔製造者戴沃斯。"
+    },
+    "Keywords": {
+        "NEUTRAL": {
+            "Values": [
+                "Action",
+                "Science Fiction",
+                "Skin"
+            ]
+        },
+        "bg-BG": {
+            "Values": [
+                "Екшън",
+                "Научна фантастика",
+                "Скин"
+            ]
+        },
+        "cs-CZ": {
+            "Values": [
+                "Akce",
+                "Sci-fi",
+                "Skin"
+            ]
+        },
+        "da-DK": {
+            "Values": [
+                "Action",
+                "Science fiction",
+                "Skin"
+            ]
+        },
+        "de-DE": {
+            "Values": [
+                "Action",
+                "Science-Fiction",
+                "Skin"
+            ]
+        },
+        "el-GR": {
+            "Values": [
+                "Δράση",
+                "Επιστημονική φαντασία",
+                "Εμφάνιση"
+            ]
+        },
+        "en-GB": {
+            "Values": [
+                "Action",
+                "Science Fiction",
+                "Skin"
+            ]
+        },
+        "en-US": {
+            "Values": [
+                "Action",
+                "Science Fiction",
+                "Skin"
+            ]
+        },
+        "es-ES": {
+            "Values": [
+                "Acción",
+                "Ciencia ficción",
+                "Piel"
+            ]
+        },
+        "es-MX": {
+            "Values": [
+                "Acción",
+                "Ciencia ficción",
+                "Aspecto"
+            ]
+        },
+        "fi-FI": {
+            "Values": [
+                "Toiminta",
+                "Scifiä",
+                "Olemus"
+            ]
+        },
+        "fr-CA": {
+            "Values": [
+                "Action",
+                "Science-fiction",
+                "Skin"
+            ]
+        },
+        "fr-FR": {
+            "Values": [
+                "Action",
+                "Science-fiction",
+                "Skin"
+            ]
+        },
+        "hu-HU": {
+            "Values": [
+                "Akció",
+                "Tudományos-fantasztikus",
+                "Felület"
+            ]
+        },
+        "id-ID": {
+            "Values": [
+                "Laga",
+                "Fiksi Ilmiah",
+                "Skin"
+            ]
+        },
+        "it-IT": {
+            "Values": [
+                "Azione",
+                "Fantascienza",
+                "Skin"
+            ]
+        },
+        "ja-JP": {
+            "Values": [
+                "アクション",
+                "サイエンス フィクション",
+                "スキン"
+            ]
+        },
+        "ko-KR": {
+            "Values": [
+                "액션",
+                "공상과학",
+                "스킨"
+            ]
+        },
+        "nb-NO": {
+            "Values": [
+                "Action",
+                "Science Fiction",
+                "Skall"
+            ]
+        },
+        "nl-NL": {
+            "Values": [
+                "Actie",
+                "Sciencefiction",
+                "Skin"
+            ]
+        },
+        "pl-PL": {
+            "Values": [
+                "Akcja",
+                "Science fiction",
+                "Skórka"
+            ]
+        },
+        "pt-BR": {
+            "Values": [
+                "Ação",
+                "Ficção Científica",
+                "Capa"
+            ]
+        },
+        "pt-PT": {
+            "Values": [
+                "Ação",
+                "Ficção Científica",
+                "Skin"
+            ]
+        },
+        "ru-RU": {
+            "Values": [
+                "Остросюжетные",
+                "Научная фантастика",
+                "Скин"
+            ]
+        },
+        "sk-SK": {
+            "Values": [
+                "Akcia",
+                "Vedecko-fantastické",
+                "Vzhľad"
+            ]
+        },
+        "sv-SE": {
+            "Values": [
+                "Action",
+                "Science fiction",
+                "Utseende"
+            ]
+        },
+        "tr-TR": {
+            "Values": [
+                "Aksiyon",
+                "Bilim Kurgu",
+                "Dış Görünüş"
+            ]
+        },
+        "uk-UA": {
+            "Values": [
+                "Екшн",
+                "Наукова фантастика",
+                "Скін"
+            ]
+        },
+        "zh-CN": {
+            "Values": [
+                "动作",
+                "科幻小说",
+                "皮肤"
+            ]
+        },
+        "zh-TW": {
+            "Values": [
+                "動作",
+                "科幻",
+                "膚色"
+            ]
+        }
+    },
+    "ContentType": "MarketplaceDurableCatalog_V1.2",
+    "CreatorEntityKey": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+    },
+    "CreatorEntity": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+    },
+    "IsStackable": false,
+    "Platforms": [
+        "title.bedrockvanilla"
+    ],
+    "Tags": [
+        "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb",
+        "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+        "skinpack",
+        "has_skinpack",
+        "genre.action",
+        "tag.science_fiction",
+        "tag.skin",
+        "1P",
+        "env.stage"
+    ],
+    "CreationDate": "2018-07-31T18:07:15.234Z",
+    "LastModifiedDate": "2024-10-18T02:09:19.362Z",
+    "StartDate": "2018-07-31T18:07:15.234Z",
+    "Contents": [
+        {
+            "Id": "a8f825d0-fc35-4620-9daa-40a200f772ee",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/a8f825d0-fc35-4620-9daa-40a200f772ee/secondary.zip",
+            "MaxClientVersion": "65535.65535.65535",
+            "MinClientVersion": "1.2.0",
+            "Tags": [],
+            "Type": "skinbinary"
+        }
+    ],
+    "Images": [
+        {
+            "Id": "f512ceae-67a7-40d1-84f2-7b4ef380f27e",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/f512ceae-67a7-40d1-84f2-7b4ef380f27e/DrWho1_Thumbnail_0.jpg"
+        }
+    ],
+    "ItemReferences": [
+        {
+            "Id": "b75fcd51-c0fc-4e2c-82ee-25d3436857e0",
+            "Amount": 1
+        }
+    ],
+    "DeepLinks": [],
+    "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "offerId": "b51f1e4f-7936-4376-8b20-e2aaec262638",
+        "originalCreatorId": "2535448579972708",
+        "price": 0,
+        "purchasable": false,
+        "packIdentity": [
+            {
+                "type": "skinpack",
+                "uuid": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                "version": "1.0.6"
+            }
+        ],
+        "skinPack": {
+            "count": 57
+        },
+        "publicChangelog": {
+            "neutral": "",
+            "en-US": "",
+            "bg-BG": "",
+            "cs-CZ": "",
+            "da-DK": "",
+            "de-DE": "",
+            "el-GR": "",
+            "en-GB": "",
+            "es-ES": "",
+            "es-MX": "",
+            "fi-FI": "",
+            "fr-CA": "",
+            "fr-FR": "",
+            "hu-HU": "",
+            "id-ID": "",
+            "it-IT": "",
+            "ja-JP": "",
+            "ko-KR": "",
+            "nb-NO": "",
+            "nl-NL": "",
+            "pl-PL": "",
+            "pt-BR": "",
+            "pt-PT": "",
+            "ru-RU": "",
+            "sk-SK": "",
+            "sv-SE": "",
+            "tr-TR": "",
+            "uk-UA": "",
+            "zh-CN": "",
+            "zh-TW": ""
+        },
+        "lastUpdated": "1.12.0"
+    },
+    "ETag": "\"1201bd83-0000-0800-0000-6711c3510000\"",
+    "ResolvedReferences": [
+        {
+            "SourceEntity": {
+                "Id": "6AF55D1D10B42870",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "6AF55D1D10B42870",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "b75fcd51-c0fc-4e2c-82ee-25d3436857e0",
+            "Type": "catalogItem",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061"
+                }
+            ],
+            "FriendlyId": "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+            "Title": {
+                "NEUTRAL": "MC Pack Item skinpack e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                "en-US": "MC Pack Item skinpack e58fb8eb-0e70-4c89-9f60-e7a4a72f9061"
+            },
+            "Description": {},
+            "Keywords": {},
+            "ContentType": "skinpack",
+            "CreatorEntityKey": {
+                "Id": "3C0BE9326354CBB7",
+                "Type": "title_player_account",
+                "TypeString": "title_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "3C0BE9326354CBB7",
+                "Type": "title_player_account",
+                "TypeString": "title_player_account"
+            },
+            "IsStackable": false,
+            "Platforms": [],
+            "Tags": [
+                "183abab8-91ab-4a0e-8dde-04177929e157",
+                "e58fb8eb-0e70-4c89-9f60-e7a4a72f9061",
+                "60a2047b-fe99-4a1d-9ccf-79d6a9b63adb"
+            ],
+            "CreationDate": "0001-01-01T08:00:00Z",
+            "LastModifiedDate": "2025-11-03T23:01:23.531Z",
+            "StartDate": "2018-07-31T18:07:15.234Z",
+            "Contents": [],
+            "Images": [],
+            "ItemReferences": [],
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "ParentItemId": "183abab8-91ab-4a0e-8dde-04177929e157"
+            },
+            "ETag": "\"67008e75-0000-0800-0000-690934440000\"",
+            "DefaultStackId": "{guid-createifnotexist}"
+        }
+    ]
+},
+{
+    "SourceEntity": {
+        "Id": "6AF55D1D10B42870",
+        "Type": "namespace",
+        "TypeString": "namespace"
+    },
+    "SourceEntityKey": {
+        "Id": "6AF55D1D10B42870",
+        "Type": "namespace",
+        "TypeString": "namespace"
+    },
+    "Id": "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+    "Type": "bundle",
+    "AlternateIds": [
+        {
+            "Type": "FriendlyId",
+            "Value": "2dae4dbb-ea8a-45f7-a04c-e0eae345ac02"
+        }
+    ],
+    "FriendlyId": "2dae4dbb-ea8a-45f7-a04c-e0eae345ac02",
+    "Title": {
+        "NEUTRAL": "Doctor Who Skins Volume II",
+        "bg-BG": "Скинове Doctor Who, том II",
+        "cs-CZ": "Skiny Doctor Who: díl II",
+        "da-DK": "Doctor Who-skin-pakke II",
+        "de-DE": "Skinpaket „Doctor Who\", Ausgabe 1",
+        "el-GR": "Εμφανίσεις Doctor Who Τόμος II",
+        "en-GB": "Doctor Who Skins Volume II",
+        "en-US": "Doctor Who Skins Volume II",
+        "es-ES": "Aspectos de Doctor Who - Volumen II",
+        "es-MX": "Aspectos Doctor Who - Volumen II",
+        "fi-FI": "Doctor Who -olemukset osa II",
+        "fr-CA": "Skins Doctor Who volume II",
+        "fr-FR": "Pack de skins Doctor Who, volume 2",
+        "hu-HU": "Doctor Who-felületek, II. kötet",
+        "id-ID": "Skin Doctor Who Volume II",
+        "it-IT": "Skin Doctor Who Volume II",
+        "ja-JP": "Doctor Who スキン Volume II",
+        "ko-KR": "Doctor Who 스킨 볼륨 II",
+        "nb-NO": "Doctor Who-skall: del 2",
+        "nl-NL": "Doctor Who-skinpakket II",
+        "pl-PL": "Skórki Doctor Who cz. II",
+        "pt-BR": "Pacote de Capas de Doctor Who Volume II",
+        "pt-PT": "Skins Doctor Who – Volume II",
+        "ru-RU": "Скины Doctor Who, выпуск II",
+        "sk-SK": "Vzhľady Doctor Who, II. diel",
+        "sv-SE": "Doctor Who-utseendepaket 2",
+        "tr-TR": "Doctor Who Dış Görünüşleri Sürüm II",
+        "uk-UA": "Пакет скінів \"Доктор Хто\", частина II",
+        "zh-CN": "《神秘博士》皮肤套装 II",
+        "zh-TW": "Doctor Who 造型組 II"
+    },
+    "Description": {
+        "NEUTRAL": "Zooming through the Time Vortex, hot on the heels of the first Minecraft Doctor Who Skin pack, comes Volume II. Over 50 characters from all eras of the show including the Second, Third, Eighth and Tenth Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, the Sea Devil and the Cybermen in all their guises from the 60’s through to the most recent and deadly upgrade.\r\n",
+        "bg-BG": "Профучаващ през водовъртежа на времето, по петите на първия пакет скинове Doctor Who на Minecraft, пристига том II. Над 50 персонажи от всички ери на сериала, включително Втория, Третия, Осмия и Десетия Доктор, Дона Ноубъл, капитан Джак Харкнес, K9, бригадирен генерал Летбридж-Стюард, Морския дявол и Киберчовеците във всичките свои образи от 60-те до най-новата и смъртоносна тяхна надстройка.",
+        "cs-CZ": "Časovým vortexem hned vzápětí po prvních skinech Doctor Who přichází na svět díl II. Více než 50 postav ze všech ér seriálu včetně druhého, třetího, osmého a desátého doktora, Donny Noble, kapitána Jacka Harknesse, K9, brigádníka Lethbridge-Stewarta, Mořského ďábla a Kyberlidí ve všech jejich převlecích od 60. let až do nejnovějšího a smrtícího upgradu.",
+        "da-DK": "Den første Minecraft Doctor Who-skin-pakke bliver nærmest overhalet af Doctor Who-skin-pakke II i tidsvortexen! Den indeholder over 50 figurer fra alle æraer af serien inklusive den anden, tredje og tiende version af Doctor Who, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, Sea Devil og Cybermen i alle afskygninger fra 60'erne til den seneste dødbringende opdatering.",
+        "de-DE": "Dicht auf den Fersen des ersten Minecraft-Skinpakets zu Doctor Who kommt die zweite Ausgabe durch den Zeit-Vortex gerast. Über 50 Charaktere aus jeder Ära der Show, inklusive des zweiten, dritten, achten und zehnten Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, der Seeteufel und Cybermen in all ihren Gestalten – von den 60er-Jahren bis hin zum neuesten und tödlichsten Upgrade.",
+        "el-GR": "Περιπλανήσου στο χωροχρόνο με τον Τόμο II που ακολουθεί το πρώτο πακέτο εμφανίσεων του Doctor Who για το Minecraft. Πάνω από 50 χαρακτήρες από όλες τις εποχές της σειράς, όπως ο Δεύτερος, ο Τρίτος, ο Όγδοος και Δέκατος Δόκτωρ, η Ντόνα Νομπλ, ο Κάπτεν Τζακ Χάρκνες, ο K9, ο Ταξίαρχος Λέθμπριτζ Στιούαρτ, ο Θαλάσσιος Δαίμονας και οι Σάιμπερμεν με όλες τις εμφανίσεις τους από τη δεκαετία του '60 έως την πιο πρόσφατη και θανατηφόρα αναβάθμιση.",
+        "en-GB": "Zooming through the Time Vortex, hot on the heels of the first Minecraft Doctor Who Skin pack, comes Volume II. Over 50 characters from all eras of the show including the Second, Third, Eighth and Tenth Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, the Sea Devil and the Cybermen in all their guises from the 60’s through to the most recent and deadly upgrade.",
+        "en-US": "Zooming through the Time Vortex, hot on the heels of the first Minecraft Doctor Who Skin pack, comes Volume II. Over 50 characters from all eras of the show including the Second, Third, Eighth and Tenth Doctors, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, the Sea Devil and the Cybermen in all their guises from the 60’s through to the most recent and deadly upgrade.\r\n",
+        "es-ES": "A través del Vórtice Temporal y pisándole los talones al primer pack de aspecto de Doctor Who de Minecraft, ¡aquí llega el Volumen II! Este te ofrece más de 50 personajes de todas las épocas de la serie: el segundo Doctor, el tercero, el octavo y el décimo, Donna Noble, el Capitán Jack Harkness, K-9, el Brigadier Lethbridge-Stewart, el Demonio Marino y los Cybermen en todas sus apariencias, desde la de los años 60 hasta la más reciente y mortífera.",
+        "es-MX": "A través del Vórtice Temporal y pisándole los talones al primer pack de aspecto de Doctor Who de Minecraft, ¡aquí llega el segundo! Más de 50 personajes de todas las épocas de la serie: el Segundo Doctor, el Tercero, el Octavo y el Décimo, Donna Noble, el Capitán Jack Harkness, K-9, el Brigadier Lethbridge-Stewart, el Demonio Marino y los Cybermen en todas sus apariencias, desde la de los años 60 hasta la más reciente y mortífera.",
+        "fi-FI": "Ajan pyörteen läpi kiitäen, Minecraftin ensimmäisen Doctor Who -olemuspaketin kannoilla, esittelemme Doctor Who -olemuspaketin osa II. Mukana yli 50 hahmoa sarjan kaikilta aikakausilta, mm. Toinen, Kolmas, Kahdeksas ja Kymmenes Tohtori, Donna Noble, kapteeni Jack Harkness, K9, brigadööri Lethbridge-Stewart, Meripiru ja kybermiehet eri muodoissaan, aina 60-luvulta viimeisimpään ja vaarallisimpaan versioonsa asti.",
+        "fr-CA": "Plongeant au cœur du vortex du temps, le volume II emboîte le pas au premier pack de skins Minecraft Doctor Who. Plus de 50 personnages de toutes les ères, y compris les Second, Troisième, Huitième et Dixième Docteurs, Donna Noble, le capitaine Jack Harkness, le K9, le brigadier Lethbridge-Stewart, le Sea Devil et les Cybermen sous toutes leurs formes, des années 60 à la plus récente – et mortelle – mise à jour.",
+        "fr-FR": "Sorti du vortex du temps, découvrez le pack de skins Minecraft Doctor Who 2. Plus de 50 personnages de toute la série, dont les 2e, 3e, 8e et 10e docteurs, Donna Noble, Capitaine Jack Harkness, K9, Brigadier Lethbridge-Stewart, Démons des Mers et Cybermen, dans leur apparence des années 60 jusqu'à maintenant.",
+        "hu-HU": "Az első Minecraft Doctor Who felületcsomag nyomában, az Időörvényen keresztül érkezik a II. kötet. Több mint 50 karaktert tartalmaz a sorozat minden időszakából, többek között: a Második, Harmadik, Nyolcadik és Tizedik Doktor, Donna Noble, Jack Harkness kapitány, K9, Lethbridge-Stewart dandártábornok, a Tengeri Ördög és a kiberemberek a 60-as évekbeli kosztümükben. Mindez a legújabb és leghalálosabb frissítés része.",
+        "id-ID": "Dengan Melewati Vorteks Waktu melanjutkan Paket Skin Doctor Who Minecraft yang pertama, kini hadir Volume II. Lebih dari 50 karakter dari semua era film ini termasuk Second Doctor, Third Doctor, Eight Doctor, dan Tenth Doctor, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, Sea Devil, dan Cyberman dalam semua tampilan mereka dari tahun 60-an hingga versi terkininya yang seru.",
+        "it-IT": "Attraversa il vortice del tempo e preparati al secondo volume delle skin di Doctor Who per Minecraft. Include più di 50 personaggi provenienti da tutte le ere della serie, tra cui il Secondo, il Terzo, l'Ottavo e il Decimo Dottore, Donna Noble, il Capitano Jack Harkness, K9, Lethbridge-Stewart, il Diavolo del Mare e i Cybermen dalla versione anni 60 a quella più recente.",
+        "ja-JP": "第一弾に引き続き、Minecraft Doctor Who スキン パック Volume II がタイム ボルテックスを通り抜けてやってきた。2 代目、3 代目、8 代目、10 代目ドクター、ドナ・ノーブル、キャプテン・ジャック・ハークネス、K9、レスブリッジ＝スチュワート大佐、サイルリアン、サイバーマンなど全シリーズを代表する 50 種以上のキャラクターを、60 年代の旧シリーズから最新作までのそれぞれの装いでお楽しみいただけます。",
+        "ko-KR": "Minecraft의 첫 번째 Doctor Who 스킨 팩의 뒤를 잇는 볼륨 II가 시간의 소용돌이(Time Vortext)를 통해 등장했습니다. 2대, 3대, 8대, 10대 닥터와 도나 노블, 캡틴 잭 하크네스, K9, 레스브리지 스튜어트 준장, 시 데블, 사이버맨 등 60년대부터 가장 최근까지, 드라마에 출현했던 50명 이상의 캐릭터와 치명적인 업그레이드를 만나보세요.",
+        "nb-NO": "I full fart gjennom tidsvortexen og like i hælene på den første Doctor Who-skallpakken til Minecraft kommer del 2. Mer enn 50 rollefigurer fra alle seriens epoker, inkludert den andre, tredje, åttende og tiende doktoren, Donna Noble, kaptein Jack Harkness, K9, brigadegeneral Lethbridge-Stewart, Sea Devil samt Cybermen i alle deres forkledninger fra sekstitallet og frem til den siste og dødeligste oppgraderingen.",
+        "nl-NL": "Zoevend door de tijdvortex komt in navolging van het eerste skinpakket van Doctor Who voor Minecraft nu deel II. Meer dan 50 personages uit alle delen van de show, waaronder de tweede, derde, achtste en tiende Doctor, Donna Noble, Captain Jack Harkness, K9, Brigadier Lethbridge-Stewart, de Zeeduivel en de Cybermen in al hun verschijningen vanaf de jaren 60 tot aan de meest recente en dodelijke upgrade.",
+        "pl-PL": "Poprzez wir czasu przybywa do nas druga część minecraftowego zestawu skórek Doctor Who. Ponad 50 postaci z wszystkich okresów serialu, jak Doktorzy nr 2, 3, 8 i 10, Donna Noble, kapitan Jack Harkness, K9, brygadier Lethbridge-Stewart, Diabeł Morski oraz Cybermeni – wszyscy w oryginalnych strojach z lat 60. aż po najnowsze edycje.",
+        "pt-BR": "Cruzando o Vórtice do Tempo, no encalço do primeiro pacote de capas de Doctor Who do Minecraft, vem o volume II. Mais de 50 personagens de todas as eras do programa, incluindo os segundo, terceiro, oitavo e décimo Doutores, Donna Noble, o capitão Jack Harkness, K9, o brigadeiro Lethbridge-Stewart, o Sea Devil e os Cybermen em todas as suas aparências desde a década de 60 até seu aprimoramento mais recente e mortal.",
+        "pt-PT": "Acelerando pelo Vórtice do Tempo, a pouca distância do primeiro Pack de Skins Doctor Who do Minecraft, chega o Volume II. Contém mais de 50 personagens de todas as eras do programa, incluindo o Segundo, o Terceiro, o Oitavo e o Décimo Doutores, Donna Noble, o Capitão Jack Harkness, K9, o Brigadeiro Lethbridge-Stewart, o Diabo dos Mares e os Cybermen em todas as suas formas, desde os anos 60 até à mais recente e mortífera atualização.",
+        "ru-RU": "Первый набор скинов Doctor Who для Minecraft вышел лишь недавно, но из портала времени уже появился второй выпуск этого набора. Более 50 персонажей из всех сезонов сериала, в том числе Второй, Третий, Восьмой и Десятый Доктора, Донна Ноубл, капитан Джек Харкнесс, K9, бригадир Летбридж-Стюарт, Морской Дьявол и киберлюди во всех своих обличьях с 60-х годов до смертоносных последних версий.",
+        "sk-SK": "Prechádzajúc časovým vírom a v tesnom závese za prvým balíčkom vzhľadov Doctor Who pre hru Minecraft prichádza II. diel. Druhý, tretí, ôsmy a desiaty Doktor, Donna Noble, kapitán Jack Harkness, K9, generál Lethbridge-Stewart, morský démon a kybermani vo všetkých svojich podobách od 60. rokov až po najnovšiu a najsmrteľnejšiu inováciu sú len niektoré z viac ako 50 postáv zo všetkých období tejto šou.",
+        "sv-SE": "Farande genom tidsvortexen, jagandes förra Doctor Who-utseendepaketet till Minecraft kommer nu andra delen. Fler än 50 karaktärer från alla versioner av tv-programmet inklusive den andra, tredje, åttonde och tionde doktorn, Donna Noble, kapten Jack Harkness, K9, Brigadier Lethbridge-Stewart, Sea Devil och alla varianter av Cyberman från 60-talet fram till nutid.",
+        "tr-TR": "Time Vortex’in peşi sıra ilk Minecraft Doctor Who Dış Görünüş paketinin hemen ardından Sürüm II geliyor. 60’lardan en güncel ve en ölümcül hallerine kadar tüm kılıklarıyla İkinci, Üçüncü, Sekizinci ve Onuncu Doktorlar, Donna Noble, Kaptan Jack Harkness, K9, Tuğgeneral Lethbridge-Stewart, Deniz Şeytanı ve Cybermen dahil olmak üzere programın tüm dönemlerinden 50’nin üzerinde karakter.",
+        "uk-UA": "Час не стоїть на місці, і з його вихору одразу ж за першим пакетом скінів Minecraft \"Доктор Хто\" з’являється й другий. Понад 50 персонажів з усіх сезонів серіалу, зокрема Другий, Третій, Восьмий і Десятий Доктори, Донна Ноубл, капітан Джек Гаркнесс, К9, бригадир Летбридж-Стюарт, морський диявол і кіберлюди у всіх версіях свого обладунку – від 60-х до найновіших і найсмертоносніших оновленнях.",
+        "zh-CN": "第一款在时间漩涡里快速穿梭的《我的世界》之《神秘博士》皮肤包套装 II 即将发行。在所有展示年代里，共有超过 50 种人物，他们的外型从 60 年代跨越至最新且完全升级的样貌，包括第二、第三、第八及第十任博士、多娜·诺博、上校杰克·哈克尼斯、K9、旅长莱斯布里奇·斯图尔特、海魔以及赛博人。",
+        "zh-TW": "一起在時間漩渦裡快速穿梭吧。緊接著第一套 Minecraft Doctor Who 外觀套件之後，套件 II 也即將發行。內容包含來自影集中各個年代 50 多個角色，包括第二、第三、第八及第十代博士、Donna Noble、Jack Harkness 隊長、K9、Lethbridge-Stewart 准將、Sea Devil (海魔) 及 Cybermen (電腦人) 等，囊括他們從 60 年代一直到最新最強大裝備的所有樣貌。"
+    },
+    "Keywords": {},
+    "ContentType": "MarketplaceDurableCatalog_V1.2",
+    "CreatorEntityKey": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+    },
+    "CreatorEntity": {
+        "Id": "301F442C3B63DC20",
+        "Type": "master_player_account",
+        "TypeString": "master_player_account"
+    },
+    "IsStackable": false,
+    "Platforms": [
+        "title.bedrockvanilla"
+    ],
+    "Tags": [
+        "c65b1919-df90-4c9b-b3d5-a59c7d7a3979",
+        "83ba3582-970f-4100-b8cc-277a10217b13",
+        "skinpack",
+        "has_skinpack",
+        "1P",
+        "env.stage"
+    ],
+    "CreationDate": "2018-07-31T18:07:23.421Z",
+    "LastModifiedDate": "2024-05-31T21:13:54.764Z",
+    "StartDate": "2018-07-31T18:07:23.421Z",
+    "Contents": [
+        {
+            "Id": "ab79774d-e7ee-49d8-a09e-2bf1dc28e482",
+            "Url": "https://xforgeassets001.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/ab79774d-e7ee-49d8-a09e-2bf1dc28e482/secondary.zip",
+            "MaxClientVersion": "65535.65535.65535",
+            "MinClientVersion": "1.2.0",
+            "Tags": [],
+            "Type": "skinbinary"
+        }
+    ],
+    "Images": [
+        {
+            "Id": "53d3bee7-73e7-4c54-933c-06d693cc6eb9",
+            "Tag": "Thumbnail",
+            "Type": "Thumbnail",
+            "Url": "https://xforgeassets002.xboxlive.com/pf-title-6af55d1d10b42870-e9d1/53d3bee7-73e7-4c54-933c-06d693cc6eb9/DrWho2_Thumbnail_0.jpg"
+        }
+    ],
+    "ItemReferences": [
+        {
+            "Id": "711c67b8-42c3-421b-92ec-ee3f245516aa",
+            "Amount": 1
+        }
+    ],
+    "DeepLinks": [],
+    "DisplayProperties": {
+        "creatorName": "Minecraft",
+        "offerId": "2dae4dbb-ea8a-45f7-a04c-e0eae345ac02",
+        "originalCreatorId": "2535448579972708",
+        "price": 0,
+        "purchasable": false,
+        "packIdentity": [
+            {
+                "type": "skinpack",
+                "uuid": "83ba3582-970f-4100-b8cc-277a10217b13",
+                "version": "1.0.6"
+            }
+        ],
+        "skinPack": {
+            "count": 51
+        },
+        "publicChangelog": {
+            "en-US": "",
+            "neutral": ""
+        },
+        "lastUpdated": "1.12.0"
+    },
+    "ETag": "\"7a00782b-0000-0800-0000-665a3d950000\"",
+    "ResolvedReferences": [
+        {
+            "SourceEntity": {
+                "Id": "6AF55D1D10B42870",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "SourceEntityKey": {
+                "Id": "6AF55D1D10B42870",
+                "Type": "namespace",
+                "TypeString": "namespace"
+            },
+            "Id": "711c67b8-42c3-421b-92ec-ee3f245516aa",
+            "Type": "catalogItem",
+            "AlternateIds": [
+                {
+                    "Type": "FriendlyId",
+                    "Value": "83ba3582-970f-4100-b8cc-277a10217b13"
+                }
+            ],
+            "FriendlyId": "83ba3582-970f-4100-b8cc-277a10217b13",
+            "Title": {
+                "NEUTRAL": "MC Pack Item skinpack 83ba3582-970f-4100-b8cc-277a10217b13",
+                "en-US": "MC Pack Item skinpack 83ba3582-970f-4100-b8cc-277a10217b13"
+            },
+            "Description": {},
+            "Keywords": {},
+            "ContentType": "skinpack",
+            "CreatorEntityKey": {
+                "Id": "3C0BE9326354CBB7",
+                "Type": "title_player_account",
+                "TypeString": "title_player_account"
+            },
+            "CreatorEntity": {
+                "Id": "3C0BE9326354CBB7",
+                "Type": "title_player_account",
+                "TypeString": "title_player_account"
+            },
+            "IsStackable": false,
+            "Platforms": [],
+            "Tags": [
+                "d0db1072-45cf-4a51-a9fe-89ea46888acc",
+                "83ba3582-970f-4100-b8cc-277a10217b13",
+                "c65b1919-df90-4c9b-b3d5-a59c7d7a3979"
+            ],
+            "CreationDate": "0001-01-01T08:00:00Z",
+            "LastModifiedDate": "2025-11-03T23:11:59.367Z",
+            "StartDate": "2018-07-31T18:07:23.421Z",
+            "Contents": [],
+            "Images": [],
+            "ItemReferences": [],
+            "DeepLinks": [],
+            "DisplayProperties": {
+                "ParentItemId": "d0db1072-45cf-4a51-a9fe-89ea46888acc"
+            },
+            "ETag": "\"ca02442b-0000-0800-0000-690936c00000\"",
+            "DefaultStackId": "{guid-createifnotexist}"
+        }
+    ]
+},
   "b89ef5de-78ad-4a48-b8a5-f12065286e7d",
   "e6733e65-44ad-452c-8151-e31b80a17e71",
   "604be09e-8ada-4b4e-a64d-24e329eb6855",
